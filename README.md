@@ -8,11 +8,11 @@
 
 | Problems                                                     | Related Algorithms | URL                                                          |
 | ------------------------------------------------------------ | ------------------ | ------------------------------------------------------------ |
-| 1. [两数之和](Source Files/twoSum.cpp)                       | 二分查找           | [url]()                                                      |
-| 16. [最接近三数之和](Source Files/Daily-16.h)                | 排序+双指针        |                                                              |
-| 41. [缺失的第一个正数](Source Files/Daily-firstMissingPositive.cpp) | 原地哈希（置换法） |                                                              |
-| 445. [两数相加 II](Source Files/addTwoNumbers.cpp)           | 栈、链表           |                                                              |
-| 剑指offer 21. [调整数组顺序使奇数位于偶数前面](Souce Files/exchangeVector.cpp) |                    | [url](<https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/>) |
+| 1. [两数之和](SourceFiles/twoSum.cpp)                        | 二分查找           | [url]()                                                      |
+| 16. [最接近三数之和](SourceFiles/Daily-16.h)                 | 排序+双指针        |                                                              |
+| 41. [缺失的第一个正数](SourceFiles/Daily-firstMissingPositive.cpp) | 原地哈希（置换法） |                                                              |
+| 445. [两数相加 II](SourceFiles/addTwoNumbers.cpp)            | 栈、链表           |                                                              |
+| 剑指offer 21. [调整数组顺序使奇数位于偶数前面](SouceFiles/exchangeVector.cpp) |                    | [url](<https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/>) |
 
 
 
@@ -28,8 +28,8 @@
 
 | Problems                                                     | Related Algorithms         |
 | ------------------------------------------------------------ | -------------------------- |
-| 面试题 02.01. [移除重复节点](Source Files/Daily-removeDuplicateNodes.h) | 删除链表节点               |
-| 剑指offer35. [复杂链表的复制](Source Files/copyRandomList.cpp) | 原地拓展和拆分链表；哈希表 |
+| 面试题 02.01. [移除重复节点](SourceFiles/Daily-removeDuplicateNodes.h) | 删除链表节点               |
+| 剑指offer35. [复杂链表的复制](SourceFiles/copyRandomList.cpp) | 原地拓展和拆分链表；哈希表 |
 
 
 
@@ -59,9 +59,9 @@
 
 * **Dynamic Programming 动态规划**
 
-| Problems                                                | Related Algorithms |
-| ------------------------------------------------------- | ------------------ |
-| LintCode. [背包问题 I](Source Files/backPack.cpp)       | 动态规划           |
-| 剑指offer 14. [剪绳子 I](Source Files/cuttingRope.cpp)  | 动态规划、贪心     |
-| 剑指offer 14. [剪绳子 II](Source Files/cuttingRope.cpp) | 动态规划、贪心     |
+| Problems                                               | Related Algorithms |
+| ------------------------------------------------------ | ------------------ |
+| LintCode. [背包问题 I](SourceFiles/backPack.cpp)       | 动态规划           |
+| 剑指offer 14. [剪绳子 I](SourceFiles/cuttingRope.cpp)  | 动态规划、贪心     |
+| 剑指offer 14. [剪绳子 II](SourceFiles/cuttingRope.cpp) | 动态规划、贪心     |
 
