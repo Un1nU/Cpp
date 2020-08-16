@@ -51,7 +51,7 @@ public:
         int match = 0;
         while (idx1 < len1 && idx2 < len2)
         {
-            if (haystack[idx1] == haystack[idx2])
+            if (idx2 == -1 || haystack[idx1] == needle[idx2])
             {
                 idx1++;
                 idx2++;
